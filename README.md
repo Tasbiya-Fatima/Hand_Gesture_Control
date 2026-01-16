@@ -1,5 +1,5 @@
 # Hand_Gesture_Control
-and Gesture Control using OpenCV &amp; MediaPipe
+Gesture Control using OpenCV &amp; MediaPipe
 Hand Gesture Controlled System using OpenCV & MediaPipe
 
 This project allows you to control applications and websites using hand gestures detected through a webcam. It uses OpenCV for video processing and MediaPipe Hands for accurate hand landmark detection, with added stability logic to avoid false triggers.
